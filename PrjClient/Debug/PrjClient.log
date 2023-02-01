@@ -1,0 +1,6 @@
+﻿  PrjClient.cpp
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\PrjClient.cpp(328,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\PrjClient.cpp(339,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\PrjClient.cpp(354,3): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\PrjClient.cpp(781,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PrjClient.vcxproj -> E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\Debug\PrjClient.exe

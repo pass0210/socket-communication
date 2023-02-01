@@ -1,0 +1,2 @@
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\소스\Chapter14\PrjClient\Debug\PrjClient.exe
+E:\캡스톤 영상\대학\3학년2학기\네트워크프로그래밍\텀프로젝트\새 폴더\Chapter14\PrjClient\Debug\PrjClient.exe
